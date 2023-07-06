@@ -14,6 +14,6 @@ I have a deep understanding of the entire web development stack, from frontend t
 
 ## Get in Touch
 
-I am always open to new opportunities, collaboration, and discussing exciting projects. If you would like to connect, feel free to reach out to me via email at [email protected] or connect with me on [LinkedIn](https://www.linkedin.com/in/trideep-das-817962133/). Let's create innovative software solutions together!
+I am always open to new opportunities, collaboration, and discussing exciting projects. If you would like to connect, feel free to reach out to me via email at trdp30@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/trideep-das-817962133/). Let's create innovative software solutions together!
 
 Thank you for visiting my profile, and I look forward to connecting with you.
