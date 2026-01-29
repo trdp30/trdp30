@@ -1,6 +1,6 @@
 # Senior Software Engineer - Web Technologies
 
-Welcome to my GitHub profile! I am a highly experienced Senior Software Engineer with a strong focus on web technologies. With five years of hands-on experience in building and developing software, I bring a wealth of expertise and a passion for creating robust and scalable web applications.
+Welcome to my GitHub profile! I am a highly experienced Senior Software Engineer with a strong focus on web technologies. With 7+ years of hands-on experience in building and developing software, I bring a wealth of expertise and a passion for creating robust and scalable web applications.
 
 ## About Me
 
